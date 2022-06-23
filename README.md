@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3 align="center">Let Bear Fix 🐻💻 </h3>
+
+![image](https://user-images.githubusercontent.com/95410966/175266482-64e93f78-8197-4d99-b5fc-5163bb7eb61a.png)
 
 <!--
 **avivi28/avivi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
